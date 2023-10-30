@@ -201,7 +201,7 @@
 
           life.fetch(function (response) {
             var data = life.parse(response);
-            var title = life.parseTitle(response);
+            var title = life.parseTitle(response).substr(2);
             life.render(title, data);
           });
         });
