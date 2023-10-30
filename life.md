@@ -9,8 +9,8 @@ Zavi's gadgets' life
 - 04/08/2017-29/01/2018 MacBook Pro 15" 256 GB (Bukalapak) #laptop _Zain_
 - 29/01/2018-20/04/2021 MacBook Pro 13" Intel 16 GB (Ninja Van) #laptop _Zain_
 - 20/04/2021-~ MacBook Pro 13" M1 16 GB (Ninja Van) #laptop _Zain_
-- 14/12/2021-08/02/2023 Magic Trackpad White #trackpad _Zain_
-- 08/02/2023-~ Magic Trackpad Black #trackpad _Zain_
+- 14/12/2021-08/02/2023 [Magic Trackpad White](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad-white-multi-touch-surface) #trackpad _Zain_
+- 08/02/2023-~ [Magic Trackpad Black](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad-white-multi-touch-surface) #trackpad _Zain_
 - 2006 [Nokia 8250](https://www.gsmarena.com/nokia_8250-217.php) #phone _Zain_
 - 2007 [Nokia 2300](https://www.gsmarena.com/nokia_2300-513.php) #phone _Zain_
 - 2008-10/2009 [Sony Ericcson K320](https://www.gsmarena.com/sony_ericsson_k320-1722.php) #phone _Zain_
@@ -22,12 +22,12 @@ Zavi's gadgets' life
 - 26/06/2019-02/04/2020 [Google Pixel 3a](https://www.gsmarena.com/google_pixel_3a-9408.php) #phone _Zain_
 - 02/04/2020-17/10/2023 [iPhone 11 128GB](https://support.apple.com/kb/SP804?locale=en_US) #phone _Zain_
 - 17/10/2023-~ [iPhone 15 Pro Max 512GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-15-pro-max-global-a3106-specs.html) #phone _Zain_
-- 17/10/2023-~ [iPhone 6s 32GB](https://support.apple.com/kb/SP726?locale=en_US) #phone _Zain_
+- 17/10/2023-~ [iPhone 6s 32GB](https://support.apple.com/kb/SP726?locale=en_US) #phone _Zain_ **3rd**
 - 21/07/2020-~ AirPods Pro #headphones _Zain_
 - 04/04/2021-~ Apple Watch SE #watch _Zain_
-- 29/01/2018-12/2022 MacBook Pro 15" #laptop _Vika_
+- 29/01/2018-12/2022 MacBook Pro 15" #laptop _Vika_ **2nd**
 - 03/03/2023-~ [Mac mini M2 Pro 10 CPU/16 GPU 512GB](https://everymac.com/systems/apple/mac_mini/specs/mac-mini-m2-pro-10-core-cpu-16-core-gpu-2023-specs.html) #desktop _Vika_
-- 08/02/2023-~ Magic Trackpad White #trackpad _Vika_
+- 08/02/2023-~ [Magic Trackpad White](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad-white-multi-touch-surface) #trackpad _Vika_ **2nd**
 - 29/01/2020-~ iPad Pro 12.9" 64 GB #tablet _Vika_
 - 31/03/2018-25/10/2020 [iPhone 6s 32GB](https://support.apple.com/kb/SP726?locale=en_US) #phone _Vika_
 - 25/10/2020-17/10/2023 [iPhone 12 128GB](https://support.apple.com/kb/SP830?locale=en_US) #phone _Vika_
@@ -36,6 +36,6 @@ Zavi's gadgets' life
 - 30/10/2023-~ Apple Watch Series 9 #watch _Vika_
 - 26/11/2021-~ AirPods Pro #headphones _Vika_
 - 25/05/2018-~ iPad (6th generation) #tablet _Najmi_
-- 25/10/2020-17/10/2023 [iPhone 6s 32GB](https://support.apple.com/kb/SP726?locale=en_US) #phone _Najmi_
-- 17/10/2023-~ [iPhone 12 128GB](https://support.apple.com/kb/SP830?locale=en_US) #phone _Najmi_
-- 17/10/2023-~ [iPhone 11 128GB](https://support.apple.com/kb/SP804?locale=en_US) #phone _Isa_
+- 25/10/2020-17/10/2023 [iPhone 6s 32GB](https://support.apple.com/kb/SP726?locale=en_US) #phone _Najmi_ **2nd**
+- 17/10/2023-~ [iPhone 12 128GB](https://support.apple.com/kb/SP830?locale=en_US) #phone _Najmi_ **2nd**
+- 17/10/2023-~ [iPhone 11 128GB](https://support.apple.com/kb/SP804?locale=en_US) #phone _Isa_ **2nd**
