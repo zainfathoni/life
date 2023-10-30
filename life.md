@@ -1,4 +1,4 @@
-# Zain's gadgets' life
+# Zavi's gadgets' life
 
 - 2002-2009 Intel Celeron #desktop _Zain_
 - 2009-29/01/2018 Intel Core 2 Duo #desktop _Zain_
