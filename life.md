@@ -1,6 +1,7 @@
 Zavi's gadgets' life
 ==================
 
+- 10/1990 **Zain** was born
 - 2002-2009 Intel Celeron #desktop **Zain**
 - 2009-29/01/2018 Intel Core 2 Duo #desktop **Zain**
 - 2010-2014 ASUS Mini PC #laptop **Zain**
