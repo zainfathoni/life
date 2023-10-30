@@ -1,4 +1,5 @@
-# Zavi's gadgets' life
+Zavi's gadgets' life
+==================
 
 - 2002-2009 Intel Celeron #desktop _Zain_
 - 2009-29/01/2018 Intel Core 2 Duo #desktop _Zain_
@@ -11,13 +12,13 @@
 - 14/12/2021-08/02/2023 Magic Trackpad White #trackpad _Zain_
 - 08/02/2023-~ Magic Trackpad Black #trackpad _Zain_
 - 2007 Nokia 3315 #phone _Zain_
-- 2008 Sony Ericcson #phone _Zain_
-- 2009 Sony Ericcson #phone _Zain_
-- 2010-2013 Samsung Galaxy Mini #phone _Zain_
-- 2014 Xiaomi Redmi Note 2 #phone _Zain_
-- 2015-2016 Sony Xperia Z #phone _Zain_
-- 2017-09/2019 Xiaomi Mi A1 #phone _Zain_
-- 10/2019-02/04/2020 Google Pixel 6a #phone _Zain_
+- 2008-2009 [Sony Ericcson K320](https://www.gsmarena.com/sony_ericsson_k320-1722.php) #phone _Zain_
+- 2010-06/2011 [Sony Ericcson J105 Naite](https://www.gsmarena.com/sony_ericsson_j105_naite-2818.php) #phone _Zain_
+- 07/2011-07/2014 [Samsung Galaxy Mini S5570](https://www.gsmarena.com/samsung_galaxy_mini_s5570-3725.php) #phone _Zain_
+- 08/2014-01/2016 [Sony Xperia Z](https://www.gsmarena.com/sony_xperia_z-5204.php) #phone _Zain_
+- 02/2016-14/11/2017 Xiaomi Redmi Note 3 #phone _Zain_
+- 15/11/2017-25/06/2019 Xiaomi Mi A1 #phone _Zain_
+- 26/06/2019-02/04/2020 Google Pixel 6a #phone _Zain_
 - 02/04/2020-17/10/2023 iPhone 11 128 GB #phone _Zain_
 - 17/10/2023-~ iPhone 15 Pro Max 512 GB #phone _Zain_
 - 17/10/2023-~ iPhone 6s #phone _Zain_
