@@ -1,15 +1,25 @@
 # Zain's gadgets' life
 
-- 04/08/2017-29/01/2018 MacBook Pro 15" #laptop _Zain_
+- 04/08/2017-29/01/2018 MacBook Pro 15" 256 GB (Bukalapak) #laptop _Zain_
+- 29/01/2018-20/04/2021 MacBook Pro 13" Intel 16 GB (Ninja Van) #laptop _Zain_
+- 20/04/2021-~ MacBook Pro 13" M1 16 GB (Ninja Van) #laptop _Zain_
+- 14/12/2021-08/02/2023 Magic Trackpad White #trackpad _Zain_
+- 08/02/2023-~ Magic Trackpad Black #trackpad _Zain_
 - 02/04/2020-17/10/2023 iPhone 11 128 GB #phone _Zain_
 - 17/10/2023-~ iPhone 15 Pro Max 512 GB #phone _Zain_
 - 17/10/2023-~ iPhone 6s #phone _Zain_
+- 21/07/2020-~ AirPods Pro #headphones _Zain_
+- 04/04/2021-~ Apple Watch SE #watch _Zain_
 - 29/01/2018-12/2022 MacBook Pro 15" #laptop _Vika_
+- 03/03/2023-~ Mac mini M2 Pro 512 GB #laptop _Vika_
+- 08/02/2023-~ Magic Trackpad White #trackpad _Vika_
 - 29/01/2020-~ iPad Pro 12.9" 64 GB #tablet _Vika_
 - 31/03/2018-25/10/2020 iPhone 6s #phone _Vika_
 - 25/10/2020-17/10/2023 iPhone 12 128 GB #phone _Vika_
-- 03/03/2023-~ Mac mini M2 Pro 512 GB ##laptop _Vika_
 - 17/10/2023-~ iPhone 15 Pro 256 GB #phone _Vika_
+- 26/04/2021-30/10/2023 Apple Watch SE #watch _Vika_
+- 30/10/2023-~ Apple Watch Series 9 #watch _Vika_
+- 26/11/2021-~ AirPods Pro #headphones _Vika_
 - 25/05/2018-~ iPad (6th generation) #tablet _Najmi_
 - 25/10/2020-17/10/2023 iPhone 6s #phone _Najmi_
 - 17/10/2023-~ iPhone 12 128 GB #phone _Najmi_

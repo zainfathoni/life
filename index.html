@@ -63,8 +63,23 @@
         font-weight: 300;
         white-space: nowrap;
     }
-    code {
+    code.laptop {
         color: khaki;
+    }
+    code.trackpad {
+        color: darkseagreen;
+    }
+    code.phone {
+        color: magenta;
+    }
+    code.tablet {
+        color: cyan;
+    }
+    code.headphones {
+        color: coral;
+    }
+    code.watch {
+        color: yellow;
     }
     #life {
         position: absolute;
@@ -358,7 +373,7 @@
                 }
                 
                 // Parse hashtags in the text
-                d.text = d.text.replace(/\s#([^\s]+)/g, "<code href='#$1'> #$1</code>");
+                d.text = d.text.replace(/\s#([^\s]+)/g, "<code class='$1'> #$1</code>");
 
                 // Parse Bold in the text
                 d.text = d.text.replace(/\*\*([^\*]+)\*\*/g, "<strong>$1</strong>");
