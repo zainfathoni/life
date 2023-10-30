@@ -388,7 +388,7 @@
                 );
 
                 // Parse Italic in the text
-                d.text = d.text.replace(/\_([^\*]+)\_/g, "<i>$1</i>");
+                d.text = d.text.replace(/\s\_([^\*]+)\_/g, " <i>$1</i>");
 
                 return (
                     '<div class="event" style="margin-left: ' +
