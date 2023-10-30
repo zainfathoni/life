@@ -1,17 +1,30 @@
 # Zain's gadgets' life
 
+- 2002-2009 Intel Celeron #desktop _Zain_
+- 2009-29/01/2018 Intel Core 2 Duo #desktop _Zain_
+- 2010-2014 ASUS Mini PC #laptop _Zain_
+- 2015-2017 Lenovo ThinkPad (Xtremax) #laptop _Zain_
+- 03/2017-04/08/2017 ASUS Intel i5 (Bukalapak) #laptop _Zain_
 - 04/08/2017-29/01/2018 MacBook Pro 15" 256 GB (Bukalapak) #laptop _Zain_
 - 29/01/2018-20/04/2021 MacBook Pro 13" Intel 16 GB (Ninja Van) #laptop _Zain_
 - 20/04/2021-~ MacBook Pro 13" M1 16 GB (Ninja Van) #laptop _Zain_
 - 14/12/2021-08/02/2023 Magic Trackpad White #trackpad _Zain_
 - 08/02/2023-~ Magic Trackpad Black #trackpad _Zain_
+- 2007 Nokia 3315 #phone _Zain_
+- 2008 Sony Ericcson #phone _Zain_
+- 2009 Sony Ericcson #phone _Zain_
+- 2010-2013 Samsung Galaxy Mini #phone _Zain_
+- 2014 Xiaomi Redmi Note 2 #phone _Zain_
+- 2015-2016 Sony Xperia Z #phone _Zain_
+- 2017-09/2019 Xiaomi Mi A1 #phone _Zain_
+- 10/2019-02/04/2020 Google Pixel 6a #phone _Zain_
 - 02/04/2020-17/10/2023 iPhone 11 128 GB #phone _Zain_
 - 17/10/2023-~ iPhone 15 Pro Max 512 GB #phone _Zain_
 - 17/10/2023-~ iPhone 6s #phone _Zain_
 - 21/07/2020-~ AirPods Pro #headphones _Zain_
 - 04/04/2021-~ Apple Watch SE #watch _Zain_
 - 29/01/2018-12/2022 MacBook Pro 15" #laptop _Vika_
-- 03/03/2023-~ Mac mini M2 Pro 512 GB #laptop _Vika_
+- 03/03/2023-~ Mac mini M2 Pro 512 GB #desktop _Vika_
 - 08/02/2023-~ Magic Trackpad White #trackpad _Vika_
 - 29/01/2020-~ iPad Pro 12.9" 64 GB #tablet _Vika_
 - 31/03/2018-25/10/2020 iPhone 6s #phone _Vika_
