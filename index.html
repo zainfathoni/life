@@ -63,6 +63,9 @@
         font-weight: 300;
         white-space: nowrap;
     }
+    code {
+        color: khaki;
+    }
     #life {
         position: absolute;
         top: 0;
@@ -353,6 +356,15 @@
                             "</a>",
                     );
                 }
+                
+                // Parse hashtags in the text
+                d.text = d.text.replace(/\s#([^\s]+)/g, "<code href='#$1'> #$1</code>");
+
+                // Parse Bold in the text
+                d.text = d.text.replace(/\*\*([^\*]+)\*\*/g, "<strong>$1</strong>");
+
+                // Parse Italic in the text
+                d.text = d.text.replace(/\_([^\*]+)\_/g, "<i>$1</i>");
 
                 return (
                     '<div class="event" style="margin-left: ' +
