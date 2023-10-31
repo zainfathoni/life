@@ -1,0 +1,42 @@
+Zavi's gadgets' life
+==================
+
+- 10/1990 **Zain** was born
+- 2002-2009 Intel Celeron #desktop **Zain**
+- 2009-29/01/2018 Intel Core 2 Duo #desktop **Zain**
+- 2010-2014 ASUS Mini PC #laptop **Zain**
+- 2015-2017 Lenovo ThinkPad (Xtremax) #laptop **Zain**
+- 03/2017-04/08/2017 ASUS Intel i5 (Bukalapak) #laptop **Zain**
+- 04/08/2017-29/01/2018 [MacBook Pro Core i7 15" 2017 16/256GB](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.8-15-mid-2017-retina-display-touch-bar-specs.html) (Bukalapak) #laptop **Zain**
+- 29/01/2018-20/04/2021 [MacBook Pro 13" Core i5 2018 16/256GB](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i5-2.3-13-mid-2018-true-tone-display-touch-bar-specs.html) (Ninja Van) #laptop **Zain**
+- 20/04/2021-~ [MacBook Pro 13" M1 2020 16/256GB](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m1-8-core-13-2020-specs.html) (Ninja Van) #laptop **Zain**
+- 14/12/2021-08/02/2023 [Magic Trackpad White](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad-white-multi-touch-surface) #trackpad **Zain**
+- 08/02/2023-~ [Magic Trackpad Black](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad-white-multi-touch-surface) #trackpad **Zain**
+- 2006 [Nokia 8250](https://www.gsmarena.com/nokia_8250-217.php) #phone **Zain**
+- 2007 [Nokia 2300](https://www.gsmarena.com/nokia_2300-513.php) #phone **Zain**
+- 2008-10/2009 [Sony Ericcson K320](https://www.gsmarena.com/sony_ericsson_k320-1722.php) #phone **Zain**
+- 11/2009-06/2011 [Sony Ericcson J105 Naite](https://www.gsmarena.com/sony_ericsson_j105_naite-2818.php) #phone **Zain**
+- 07/2011-07/2014 [Samsung Galaxy Mini S5570](https://www.gsmarena.com/samsung_galaxy_mini_s5570-3725.php) #phone **Zain**
+- 08/2014-01/2016 [Sony Xperia Z](https://www.gsmarena.com/sony_xperia_z-5204.php) #phone **Zain**
+- 02/2016-14/11/2017 [Xiaomi Redmi Note 3](https://www.gsmarena.com/xiaomi_redmi_note_3-7863.php) #phone **Zain**
+- 15/11/2017-25/06/2019 [Xiaomi Mi A1](https://en.wikipedia.org/wiki/Xiaomi_Mi_A1) #phone **Zain**
+- 26/06/2019-02/04/2020 [Google Pixel 3a](https://www.gsmarena.com/google_pixel_3a-9408.php) #phone **Zain**
+- 02/04/2020-17/10/2023 [iPhone 11 128GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-11-global-a2221-specs.html) #phone **Zain**
+- 17/10/2023-~ [iPhone 15 Pro Max 512GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-15-pro-max-global-a3106-specs.html) #phone **Zain**
+- 17/10/2023-~ [iPhone 6s 32GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-6s-a1688-4.7-inch-global-sprint-verizon-specs.html) #phone **Zain** _3rd_
+- 21/07/2020-~ [AirPods Pro 1st Gen](https://support.apple.com/kb/SP811?locale=en_US) #headphones **Zain**
+- 04/04/2021-~ [Apple Watch SE GPS 44mm](https://everymac.com/systems/apple/apple-watch/specs/apple-watch-se-gps-44mm-a2352.html) #watch **Zain**
+- 29/01/2018-12/2022 [MacBook Pro Core i7 15" 2017 256 GB](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.8-15-mid-2017-retina-display-touch-bar-specs.html) #laptop **Vika** _2nd_
+- 03/03/2023-~ [Mac mini M2 Pro 10 CPU/16 GPU 512GB](https://everymac.com/systems/apple/mac_mini/specs/mac-mini-m2-pro-10-core-cpu-16-core-gpu-2023-specs.html) #desktop **Vika**
+- 08/02/2023-~ [Magic Trackpad White](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad-white-multi-touch-surface) #trackpad **Vika** _2nd_
+- 29/01/2020-~ [iPad Pro 12.9" 3rd Gen Wi-Fi 64GB](https://everymac.com/systems/apple/ipad/specs/apple-ipad-pro-12-9-inch-3rd-gen-a1876-wi-fi-only-specs.html) #tablet **Vika**
+- 31/03/2018-25/10/2020 [iPhone 6s 32GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-6s-a1688-4.7-inch-global-sprint-verizon-specs.html) #phone **Vika**
+- 25/10/2020-17/10/2023 [iPhone 12 128GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-12-global-a2403-specs.html) #phone **Vika**
+- 17/10/2023-~ [iPhone 15 Pro 256 GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-15-pro-global-a3102-specs.html) #phone **Vika**
+- 26/04/2021-30/10/2023 [Apple Watch SE GPS 40mm](https://everymac.com/systems/apple/apple-watch/specs/apple-watch-se-gps-40mm-a2351.html) #watch **Vika**
+- 30/10/2023-~ [Apple Watch Series 9 Aluminum GPS 41mm](https://everymac.com/systems/apple/apple-watch/specs/apple-watch-series-9-aluminum-gps-41mm.html) #watch **Vika**
+- 26/11/2021-~ [AirPods Pro 2nd Gen](https://support.apple.com/kb/sp880?locale=en_US) #headphones **Vika**
+- 25/05/2018-~ [iPad 9.7" 6th Gen Wi-Fi 23GB](https://everymac.com/systems/apple/ipad/specs/apple-ipad-9-7-inch-6th-gen-early-2018-a1893-wi-fi-only-specs.html) #tablet **Najmi**
+- 25/10/2020-17/10/2023 [iPhone 6s 32GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-6s-a1688-4.7-inch-global-sprint-verizon-specs.html) #phone **Najmi** _2nd_
+- 17/10/2023-~ [iPhone 12 128GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-12-global-a2403-specs.html) #phone **Najmi** _2nd_
+- 17/10/2023-~ [iPhone 11 128GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-11-global-a2221-specs.html) #phone **Isa** _2nd_
