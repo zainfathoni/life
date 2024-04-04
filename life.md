@@ -9,7 +9,8 @@ Zavi's gadgets' life
 - 03/2017-04/08/2017 ASUS Intel i5 (Bukalapak) #laptop **Zain**
 - 04/08/2017-29/01/2018 [MacBook Pro Core i7 15" 2017 16/256GB](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.8-15-mid-2017-retina-display-touch-bar-specs.html) (Bukalapak) #laptop **Zain**
 - 29/01/2018-20/04/2021 [MacBook Pro 13" Core i5 2018 16/256GB](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i5-2.3-13-mid-2018-true-tone-display-touch-bar-specs.html) (Ninja Van) #laptop **Zain**
-- 20/04/2021-~ [MacBook Pro 13" M1 2020 16/256GB](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m1-8-core-13-2020-specs.html) (Ninja Van) #laptop **Zain**
+- 20/04/2021-28/03/2024 [MacBook Pro 13" M1 2020 16/256GB](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m1-8-core-13-2020-specs.html) (Ninja Van) #laptop **Zain**
+- 12/02/2024-~ [MacBook Pro 16" M3 Pro 2023 12CPU/18GPU 18/256GB (Space Black)](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m3-pro-12-core-cpu-18-core-gpu-16-late-2023-specs.html) #laptop **Zain**
 - 14/12/2021-08/02/2023 [Magic Trackpad White](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad-white-multi-touch-surface) #trackpad **Zain**
 - 08/02/2023-~ [Magic Trackpad Black](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad-white-multi-touch-surface) #trackpad **Zain**
 - 2006 [Nokia 8250](https://www.gsmarena.com/nokia_8250-217.php) #phone **Zain**
@@ -39,4 +40,5 @@ Zavi's gadgets' life
 - 25/05/2018-~ [iPad 9.7" 6th Gen Wi-Fi 23GB](https://everymac.com/systems/apple/ipad/specs/apple-ipad-9-7-inch-6th-gen-early-2018-a1893-wi-fi-only-specs.html) #tablet **Najmi**
 - 25/10/2020-17/10/2023 [iPhone 6s 32GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-6s-a1688-4.7-inch-global-sprint-verizon-specs.html) #phone **Najmi** _2nd_
 - 17/10/2023-~ [iPhone 12 128GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-12-global-a2403-specs.html) #phone **Najmi** _2nd_
+- 30/10/2023-~ [Apple Watch SE GPS 40mm](https://everymac.com/systems/apple/apple-watch/specs/apple-watch-se-gps-40mm-a2351.html) #watch **Najmi** _2nd_
 - 17/10/2023-~ [iPhone 11 128GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-11-global-a2221-specs.html) #phone **Isa** _2nd_
