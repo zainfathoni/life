@@ -13,6 +13,8 @@ Zavi's gadgets' life
 - 12/02/2024-~ [MacBook Pro 16" M3 Pro 2023 12CPU/18GPU 18/512GB (Space Black)](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m3-pro-12-core-cpu-18-core-gpu-16-late-2023-specs.html) #laptop **Zain**
 - 14/12/2021-08/02/2023 [Magic Trackpad White](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad-white-multi-touch-surface) #trackpad **Zain**
 - 08/02/2023-~ [Magic Trackpad Black](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad-white-multi-touch-surface) #trackpad **Zain**
+- 02/2022-~ [Apple TV 4K (2017, Black Siri Remote)](https://everymac.com/systems/apple/apple-tv/specs/apple-tv-4k-5th-generation-2017-specs.html) #tv **Zain** _2nd_
+- 11/11/2024-~ [Apple TV 4K Wi-Fi + Ethernet with 128GB storage](https://everymac.com/systems/apple/apple-tv/specs/apple-tv-4k-3rd-gen-a15-2022-a2843-wifi-ethernet-thread-specs.html) #tv **Zain**
 - 2006 [Nokia 8250](https://www.gsmarena.com/nokia_8250-217.php) #phone **Zain**
 - 2007 [Nokia 2300](https://www.gsmarena.com/nokia_2300-513.php) #phone **Zain**
 - 2008-10/2009 [Sony Ericcson K320](https://www.gsmarena.com/sony_ericsson_k320-1722.php) #phone **Zain**
