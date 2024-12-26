@@ -28,8 +28,8 @@ Zavi's gadgets' life
 - 02/04/2020-17/10/2023 [iPhone 11 128GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-11-global-a2221-specs.html) #phone **Zain**
 - 17/10/2023-~ [iPhone 15 Pro Max 512GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-15-pro-max-global-a3106-specs.html) #phone **Zain**
 - 17/10/2023-30/04/2024 [iPhone 6s 32GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-6s-a1688-4.7-inch-global-sprint-verizon-specs.html) #phone **Zain** _3rd_
-- 21/07/2020-04/04/2024 [AirPods Pro 1st Gen (A2084) with Wireless Charging Case (A2190)](https://support.apple.com/en-us/109525) #headphones **Zain**
-- 05/04/2024-~ [AirPods Pro 2nd Gen (A3048) with Wireless Charging Case MagSafe (USB-C) (A2968)](https://support.apple.com/en-us/109525) #headphones **Zain**
+- 21/07/2020-04/04/2024 [AirPods Pro 1st Gen (A2084) with Wireless Charging Case (A2190)](https://support.apple.com/en-us/109525) #earphones **Zain**
+- 05/04/2024-~ [AirPods Pro 2nd Gen (A3048) with Wireless Charging Case MagSafe (USB-C) (A2968)](https://support.apple.com/en-us/109525) #earphones **Zain**
 - 04/04/2021-07/04/2024 [Apple Watch SE GPS 44mm](https://everymac.com/systems/apple/apple-watch/specs/apple-watch-se-gps-44mm-a2352.html) #watch **Zain**
 - 08/04/2024-~ [Apple Watch Series 9 Aluminum GPS 45mm](https://everymac.com/systems/apple/apple-watch/specs/apple-watch-series-9-aluminum-gps-45mm.html) #watch **Zain**
 - 04/1991 **Vika** was born
@@ -43,18 +43,18 @@ Zavi's gadgets' life
 - 17/10/2023-~ [iPhone 15 Pro 256 GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-15-pro-global-a3102-specs.html) #phone **Vika**
 - 26/04/2021-30/10/2023 [Apple Watch SE GPS 40mm](https://everymac.com/systems/apple/apple-watch/specs/apple-watch-se-gps-40mm-a2351.html) #watch **Vika**
 - 30/10/2023-~ [Apple Watch Series 9 Aluminum GPS 41mm](https://everymac.com/systems/apple/apple-watch/specs/apple-watch-series-9-aluminum-gps-41mm.html) #watch **Vika**
-- 26/11/2021-04/04/2024 [AirPods Pro 1st Gen (A2084) with MagSafe Charging Case (Lightning) (A2190 with 1059 serial number suffix)](https://support.apple.com/en-us/109525) #headphones **Vika**
-- 05/04/2024-~ [AirPods Pro 2nd Gen (A3048) with Wireless Charging Case MagSafe (USB-C) (A2968)](https://support.apple.com/en-us/109525) #headphones **Vika**
+- 26/11/2021-04/04/2024 [AirPods Pro 1st Gen (A2084) with MagSafe Charging Case (Lightning) (A2190 with 1059 serial number suffix)](https://support.apple.com/en-us/109525) #earphones **Vika**
+- 05/04/2024-~ [AirPods Pro 2nd Gen (A3048) with Wireless Charging Case MagSafe (USB-C) (A2968)](https://support.apple.com/en-us/109525) #earphones **Vika**
 - 07/2014 **Najmi** was born
 - 14/11/2024-~ [MacBook Pro 14" M4 2024 10CPU/10GPU 16/512GB (Silver)](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m4-10-core-cpu-10-core-gpu-14-2024-specs.html) #laptop **Najmi**
 - 25/05/2018-~ [iPad 9.7" 6th Gen Wi-Fi 23GB](https://everymac.com/systems/apple/ipad/specs/apple-ipad-9-7-inch-6th-gen-early-2018-a1893-wi-fi-only-specs.html) #tablet **Najmi**
 - 25/10/2020-17/10/2023 [iPhone 6s 32GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-6s-a1688-4.7-inch-global-sprint-verizon-specs.html) #phone **Najmi** _2nd_
 - 17/10/2023-~ [iPhone 12 128GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-12-global-a2403-specs.html) #phone **Najmi** _2nd_
 - 30/10/2023-~ [Apple Watch SE GPS 40mm](https://everymac.com/systems/apple/apple-watch/specs/apple-watch-se-gps-40mm-a2351.html) #watch **Najmi** _2nd_
-- 05/04/2024-~ [AirPods Pro 1st Gen (A2084) with MagSafe Charging Case (Lightning) (A2190 with 1059 serial number suffix)](https://support.apple.com/en-us/109525) #headphones **Najmi** _2nd_
+- 05/04/2024-~ [AirPods Pro 1st Gen (A2084) with MagSafe Charging Case (Lightning) (A2190 with 1059 serial number suffix)](https://support.apple.com/en-us/109525) #earphones **Najmi** _2nd_
 - 08/2017 **Isa** was born
 - 17/10/2023-~ [iPhone 11 128GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-11-global-a2221-specs.html) #phone **Isa** _2nd_
 - 08/04/2024-~ [Apple Watch SE GPS 44mm](https://everymac.com/systems/apple/apple-watch/specs/apple-watch-se-gps-44mm-a2352.html) #watch **Isa** _2nd_
-- 05/04/2024-~ [AirPods Pro 1st Gen (A2084) with Wireless Charging Case (A2190)](https://support.apple.com/en-us/109525) #headphones **Isa** _2nd_
+- 05/04/2024-~ [AirPods Pro 1st Gen (A2084) with Wireless Charging Case (A2190)](https://support.apple.com/en-us/109525) #earphones **Isa** _2nd_
 - 08/2022 **Nada** was born
 - 01/05/2024-~ [iPhone 6s 32GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-6s-a1688-4.7-inch-global-sprint-verizon-specs.html) #phone **Nada** _4th_
