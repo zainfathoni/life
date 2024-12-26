@@ -15,6 +15,7 @@ Zavi's gadgets' life
 - 08/02/2023-~ [Magic Trackpad Black](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad-white-multi-touch-surface) #trackpad **Zain**
 - 02/2022-~ [Apple TV 4K (2017, Black Siri Remote)](https://everymac.com/systems/apple/apple-tv/specs/apple-tv-4k-5th-generation-2017-specs.html) #tv **Zain** _2nd_
 - 11/11/2024-~ [Apple TV 4K Wi-Fi + Ethernet with 128GB storage](https://everymac.com/systems/apple/apple-tv/specs/apple-tv-4k-3rd-gen-a15-2022-a2843-wifi-ethernet-thread-specs.html) #tv **Zain**
+- 11/11/2023-~ [Nintendo Switch OLED Console Mario Red Edition (Condition: Brand New, Warranty: 1 Year by Agent (Local), Colour: Mario Red)](https://www.nintendo.com/us/store/products/nintendo-switch-oled-model-mario-red-edition-112872/) #console **Zain**
 - 2006 [Nokia 8250](https://www.gsmarena.com/nokia_8250-217.php) #phone **Zain**
 - 2007 [Nokia 2300](https://www.gsmarena.com/nokia_2300-513.php) #phone **Zain**
 - 2008-10/2009 [Sony Ericcson K320](https://www.gsmarena.com/sony_ericsson_k320-1722.php) #phone **Zain**
