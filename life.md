@@ -60,4 +60,4 @@ Zavi's gadgets' life
 - 30/09/2025-~ [Xiaomi Redmi Buds 6 Play Black](https://www.mi.com/my/product/redmi-buds-6-play/) #earphones **Isa**
 - 08/2022 **Nada** was born
 - 01/05/2024-14/11/2025 [iPhone 6s 32GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-6s-a1688-4.7-inch-global-sprint-verizon-specs.html) #phone **Nada** _4th_
-- 30/09/2025-~ [Xiaomi Redmi Note 14 8/256GB Lime Green](https://www.gsmarena.com/xiaomi_redmi_note_14_4g_(global)-13616.php) #phone **Nada**
+- 30/09/2025-~ [Xiaomi Redmi Note 14 8/256GB Lime Green](https://www.gsmarena.com/xiaomi_redmi_note_14_4g_%28global%29-13616.php) #phone **Nada**
