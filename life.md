@@ -57,6 +57,7 @@ Zavi's gadgets' life
 - 08/04/2024-~ [Apple Watch SE GPS 44mm](https://everymac.com/systems/apple/apple-watch/specs/apple-watch-se-gps-44mm-a2352.html) #watch **Isa** _2nd_
 - 03/01/2025-~ [Apple Watch Series 5 40mm Aluminum GPS](https://everymac.com/systems/apple/apple-watch/specs/apple-watch-series-5-aluminum-gps-40mm-a2092.html) #watch **Isa** _2nd_
 - 05/04/2024-~ [AirPods Pro 1st Gen (A2084) with Wireless Charging Case (A2190)](https://support.apple.com/en-us/109525) #earphones **Isa** _2nd_
+- 30/09/2025-~ [Xiaomi Redmi Buds 6 Play Black](https://www.mi.com/my/product/redmi-buds-6-play/) #earphones **Isa**
 - 08/2022 **Nada** was born
 - 01/05/2024-14/11/2025 [iPhone 6s 32GB](https://everymac.com/systems/apple/iphone/specs/apple-iphone-6s-a1688-4.7-inch-global-sprint-verizon-specs.html) #phone **Nada** _4th_
 - 30/09/2025-~ [Xiaomi Redmi Note 14 8/256GB Lime Green](https://www.gsmarena.com/xiaomi_redmi_note_14_4g_(global)-13616.php) #phone **Nada**
